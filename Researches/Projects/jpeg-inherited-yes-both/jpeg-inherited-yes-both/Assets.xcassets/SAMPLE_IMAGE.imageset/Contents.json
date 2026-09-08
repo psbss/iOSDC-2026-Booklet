@@ -1,0 +1,30 @@
+{
+  "images" : [
+    {
+      "filename" : "SAMPLE_IMAGE@2x.jpg",
+      "idiom" : "universal"
+    },
+    {
+      "filename" : "SAMPLE_IMAGE.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "SAMPLE_IMAGE@2x.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "SAMPLE_IMAGE@3x.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}
